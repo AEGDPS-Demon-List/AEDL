@@ -1,18 +1,12 @@
 {
-    "id": 57436521,
-    "name": "SampleLevel1",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "id": 103,
+    "name": "Every Wave",
+    "author": "AEGMD",
+    "creators": ["AEGMD"],
+    "verifier": "An4rch",
+    "verification": "https://cdn.discordapp.com/attachments/1409467610147328032/1421622947214262402/copy_9A0CB629-698F-4F9F-921B-48D7CAE20091.mov?ex=69734bcb&is=6971fa4b&hm=d84934c267f93a68677f2cfe4ddba3efda69198baf1631087c07a80603236b20&",
     "percentToQualify": 56,
     "password": "Not Copyable",
     "records": [
-        {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 360
-        }
     ]
 }
